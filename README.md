@@ -37,6 +37,7 @@ The system is deployed across five integrated layers:
 | AutoML Accuracy | 0.99199 |
 | Models Evaluated | 342 |
 
+```
 ## Repository Structure
 A - Data and Knowledge Layer/ # RAG pipeline and policy documents
 B - Machine Learning Component/ # Dataset, AutoML training scripts
@@ -45,7 +46,7 @@ D - Decision and Reasoning Layer/# Deterministic query router
 E - System Integration/ # Main entry point and config
 F - Evaluation and Analysis/ # Evaluation scripts and results
 I - References/ # Academic papers cited in report
-
+```
 
 ## Project Resources
 
